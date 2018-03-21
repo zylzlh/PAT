@@ -1,0 +1,8 @@
+在家目录创建 .vimrc文件
+filetype indent on
+set filetype=python
+set tabstop=4
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+set nu
